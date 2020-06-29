@@ -1,9 +1,21 @@
 # Skills
 
-# Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
-
-# Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+# Skills
+- skill: HTML/CSS
+  description: semantic, valid, cross browser and adaptive; css animation, keyframes, css grid,flex, css-modules, media-requests, cscc.
+VARIABLES
+# Skills
+- skill: JavaScript / JQuery
+  description: JQuery - only use if work in needed to be done asap, more experience in vanilla JS.
+  
+  # Skills
+- skill: PHP / MySQL
+  description: Basic knowledge - processing forms and ability to read and understand someone else's code.
+  
+  # Skills
+- skill: React, Redux / Node Express.js
+  description: Currently on studying - simple REST API requests, React-Redux, Axios.
+  
+    # Skills
+- skill: Photoshop, Sketch, Figma, Zeplin
+  description: Previously prefer to made my own designs, nowadays - just attend from time to time any online cources to refresh my skills.
