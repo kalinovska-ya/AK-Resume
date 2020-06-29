@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# Training WebPage - Hotel Website
+- project: Hotel Website
+  role: Developer
+  duration: 2019 &mdash; Present
+  url: "https://kalinovska-ya.github.io/Hotel-Website/ "
+  description: First test project - in future should be integrated to Wordpress CMS and updated to the real hotel in Ukraine.
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# Training Landing Page - Fixed bikes
+- project: Fixed Gear bikes landing page
+  role: HLML-Coder
+  duration: 2020 &mdash;
+  url: "https://kalinovska-ya.github.io/Bicycle-Shop-Landing-Page/"
+  description: Just training project.
+  
+  # Training Project - Social Network on React
+- project: Social Network on React
+  role: Developer
+  duration: 2020 &mdash; Present
+  url: "https://kalinovska-ya.github.io/Social-Network/"
+  description: First steps in learning React & Node Express - still in process.
