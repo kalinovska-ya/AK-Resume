@@ -1,6 +1,4 @@
 # Skills
-
-# Skills
 - skill: HTML/CSS
   description: semantic, valid, cross browser and adaptive; css animation, keyframes, css grid,flex, css-modules, media-requests, cscc.
 VARIABLES
@@ -16,6 +14,6 @@ VARIABLES
 - skill: React, Redux / Node Express.js
   description: Currently on studying - simple REST API requests, React-Redux, Axios.
   
-    # Skills
+  # Skills
 - skill: Photoshop, Sketch, Figma, Zeplin
   description: Previously prefer to made my own designs, nowadays - just attend from time to time any online cources to refresh my skills.
