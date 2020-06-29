@@ -2,21 +2,21 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Training WebPage - Hotel Website
-- project: Hotel Website
+- project: Hotel Website (Training Project)
   role: Developer
   duration: 2019 &mdash; Present
   url: "https://kalinovska-ya.github.io/Hotel-Website/ "
   description: First test project - in future should be integrated to Wordpress CMS and updated to the real hotel in Ukraine.
 
 # Training Landing Page - Fixed bikes
-- project: Fixed Gear bikes landing page
+- project: Fixed Gear bikes landing page (Training Project)
   role: HLML-Coder
-  duration: 2020 &mdash;
+  duration: 2020
   url: "https://kalinovska-ya.github.io/Bicycle-Shop-Landing-Page/"
   description: Just training project.
   
   # Training Project - Social Network on React
-- project: Social Network on React
+- project: Social Network on React (Training Project)
   role: Developer
   duration: 2020 &mdash; Present
   url: "https://kalinovska-ya.github.io/Social-Network/"
